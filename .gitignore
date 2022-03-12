@@ -1,0 +1,24 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+uno-card-game-app/node_modules
+uno-card-game-server/node_modules
+uno-card-game-app/.pnp
+uno-card-game-app/.pnp.js
+
+# testing
+uno-card-game-app/coverage
+
+# production
+uno-card-game-app/build
+
+# misc
+uno-card-game-app/.DS_Store
+uno-card-game-app/.env.local
+uno-card-game-app/.env.development.local
+uno-card-game-app/.env.test.local
+uno-card-game-app/.env.production.local
+
+uno-card-game-app/npm-debug.log*
+uno-card-game-app/yarn-debug.log*
+uno-card-game-app/yarn-error.log*

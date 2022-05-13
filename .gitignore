@@ -5,6 +5,7 @@ uno-card-game-app/node_modules
 uno-card-game-server/node_modules
 uno-card-game-app/.pnp
 uno-card-game-app/.pnp.js
+uno-card-game-server/package-lock.json
 
 # testing
 uno-card-game-app/coverage
